@@ -17,9 +17,7 @@
     The E-Commerce Back End challenge was about taking a database and its seeds and creating the models and routes for them to be accessed in Insomnia. This challenge allowed me to get in tune with my sequelize skills and really helped me understand more about routes and what they can really be used for in a proffesional setting. I learned about express methods, using async functions in conjunction with sequelize to make changes to the database.
 
 ## Videos 
-[label](../../../../../../../C:/Users/18105/bootcamp/repos-self/e-commerce/Videos/db,%20seed,%20server,%20categories.mp4)
-[label](../../../../../../../C:/Users/18105/bootcamp/repos-self/e-commerce/Videos/Products.mp4)
-[label](../../../../../../../C:/Users/18105/bootcamp/repos-self/e-commerce/Videos/tag.mp4)
+Refer to videos folder (videos too large for Readme)
 
 ## Installation
 
